@@ -1,2 +1,2 @@
 its pretty dum-dum  
-link: https://artificialdumdum.vercel.app  
+link: https://artificialdumdum.newo.live/  
